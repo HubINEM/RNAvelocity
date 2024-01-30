@@ -1,4 +1,4 @@
-# RNA velocity Workflow using scvelo algorith
+# RNA velocity Workflow using scvelo algorithm
 RNA velocity is a high-dimensional vector that predicts the future state of individual cells on a timescale of hours.
 
 + Create a conda environment with the latest  python version. Here ```3.11.5```.
